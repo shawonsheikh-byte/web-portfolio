@@ -106,7 +106,7 @@ nav ul {
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    margin-top: 130px;
+ 
 }
 main{
     max-width: 1140px;
@@ -119,4 +119,21 @@ main{
 .about-items{
     display: flex;
     justify-content: space-around;
+}
+.text-center{
+    text-align: center;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+
+
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0px 6px 50px 0px ;
 }

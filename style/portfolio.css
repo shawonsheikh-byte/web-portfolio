@@ -89,3 +89,34 @@ nav ul {
 .banner-content{
     max-width: 580px;
 }
+.section-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: #181818;
+
+}
+.sec-descirption{
+    font-size: 18px;
+}
+.secondary-bg{
+    background-color: #FFF8F3;
+
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.item-description{
+    font-weight: 600;
+
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+}

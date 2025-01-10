@@ -141,3 +141,45 @@ main section{
     display: flex;
     gap: 24px;
 }
+.section-title{
+
+
+    text-align: center;
+}
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+.footer-coloumn{
+    width: 50%;
+}
+footer input[type="text"]{
+
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+}
+footer input[type="email"]{
+
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 40px;
+}
+.submit{ background-color: #FD6E0A;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: none;
+
+}
